@@ -18,7 +18,7 @@ I am seeking an entry-level role in cybersecurity, particularly in a Security Op
 | RDP Attack Simulation & Analysis |
 | Threat Detection & Investigation |
 
-**Project:** [Active Directory SOC Lab](./projects/ad-soc-lab.md)
+**Project:** [Active Directory SOC Lab](https://github.com/Atharva-Humane/active-directory-soc-lab)
 
 ## Tools
 
@@ -48,7 +48,7 @@ Currently working towards industry certifications and continuously improving pra
 
 ## Projects
 
-### Active Directory SOC Lab
+### <a href="https://github.com/Atharva-Humane/active-directory-soc-lab">Active-directory-soc-lab</a>
 Built a home lab to simulate attacks and detect them using a SIEM.
 
 - Active Directory environment with Windows Server 2022
