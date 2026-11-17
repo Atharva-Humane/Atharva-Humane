@@ -71,6 +71,6 @@ Built a home lab to simulate attacks and detect them using a SIEM.
 Investigated RAT command-and-control activity in two real-world PCAPs.
 
 * Identified infected hosts using DHCP, NBNS, and Kerberos traffic
-* Traced C2 beaconing to `45.131.214[.]85` and `194.180.191[.]64` via `/fakeurl.htm` at 60-second intervals
+* Traced C2 beaconing to `45.131.214.85` and `194.180.191.64` via `/fakeurl.htm` at 60-second intervals
 * Extracted IOC sets and mapped activity to MITRE ATT&CK (T1219, T1071.001)
 * Produced a formal incident report with timeline and remediation steps
