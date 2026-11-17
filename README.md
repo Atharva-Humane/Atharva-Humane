@@ -1,7 +1,7 @@
 # Hello, I'm Atharva Humane
 
 <a href="http://www.linkedin.com/in/atharva-humane-6715232b3"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://img.shields.io/badge/-CompTIA%20Security+-C8202F?&style=for-the-badge&logo=comptia&logoColor=white"><img src="https://img.shields.io/badge/-CompTIA%20Security+-C8202F?&style=for-the-badge&logo=comptia&logoColor=white" /></a>
+<a href="http://verify.comptia.org"><img src="https://img.shields.io/badge/-CompTIA%20Security+-C8202F?&style=for-the-badge&logo=comptia&logoColor=white" /></a>
 
 I am a Computer Engineering graduate and **CompTIA Security+ certified** (SY0-701) with hands-on experience in building cybersecurity labs focused on attack simulation and detection. I have worked with Active Directory environments, SIEM tools, endpoint telemetry, and PCAP-based malware analysis to understand how real-world threats are generated, detected, and investigated.
 
